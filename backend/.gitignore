@@ -1,0 +1,29 @@
+# Backend .gitignore
+# Ignore Python virtual environment
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.Python
+*.env
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+# SQLite database files
+*.sqlite3
+# VS Code settings
+.vscode/
+# IDE files
+.idea/
+# Logs
+*.log
